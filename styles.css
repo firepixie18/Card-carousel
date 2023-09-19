@@ -26,7 +26,7 @@ p{
 
 
 body {
-    background-image: url('../assets/Untitled\ design.png'); /* Replace 'background.jpg' with the actual path to your background image */
+    background-image: url('./assets/Untitled\ design.png'); /* Replace 'background.jpg' with the actual path to your background image */
     background-size: cover; /* This property scales the image to cover the entire body */
     background-repeat: no-repeat; /* Prevents the background image from repeating */
     background-attachment: fixed; /* Fixed background to prevent scrolling */
